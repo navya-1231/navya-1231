@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Java,C,Python**
+- 🌱 I’m currently pursuing **Computer Science and Engineering**
 
 - 📫 How to reach me **navyasaju2001@gmail.com**
 
